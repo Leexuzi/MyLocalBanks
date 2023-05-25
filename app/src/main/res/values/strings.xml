@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="dbs">DBS</string>
+    <string name="ocbc">OCBC</string>
+    <string name="uob">UOB</string>
+    <string name="transToEng">English</string>
+    <string name="transToChi">中文</string>
+    <string name="website">Website</string>
+    <string name="website_transed">网站</string>
+    <string name="contact_the_bank">Contact the bank</string>
+    <string name="contact_the_bank_transed">联系银行</string>
+    <string name="dbsTransed">星展银行</string>
+    <string name="ocbcTransed">华侨银行</string>
+    <string name="uobTransed">大华银行</string>
+    <string name="toggle_favourite">Toggle Favourite</string>
+</resources>
